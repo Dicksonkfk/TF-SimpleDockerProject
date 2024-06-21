@@ -1,4 +1,8 @@
 .terraform/
-.terraform.lock.hcl
 terraform.*
-*.exe
+*.*.*.exe
+*.tfstate
+terraform-provider-docker_v3.0.2.exe
+CHANGELOG.md
+LICENSE
+README.md
